@@ -1,1 +1,1 @@
-add_lunch_combo rr_nobleltezt-userdebug
+add_lunch_combo renouveau_nobleltezt-userdebug
